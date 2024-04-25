@@ -147,5 +147,6 @@ Make sure that the following host ports are available externally to facilitate m
 
 # References
 
+* [Fabric Samples](https://github.com/hyperledger/fabric-samples)
 * [Fablo documentation](https://github.com/hyperledger-labs/fablo)
 * [Fablo REST API documentation](https://github.com/fablo-io/fablo-rest)
