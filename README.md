@@ -132,7 +132,7 @@ Now you can simply exeecute git command targeting your public/private project re
 
 ```sh
 # example SSH-based access, use your own URL
-git clone git@github.com:aklenik/fabric-project-template.git
+git clone git@github.com:aklenik/sme4dd-fabric-template.git
 ```
 
 # Accessing network services
